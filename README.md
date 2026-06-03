@@ -134,6 +134,8 @@ A booking-first event management system with strict separation between reservati
 
 ## 🌐 Production Deployment
 
-The system is live and running in production:
+The system is live and fully deployed on Render:
 
-🔗 Base URL: https://event-management-ticketing-system-d5ei.onrender.com
+- ReDoc: https://anik-event-management-ticketing-system.onrender.com/api/redoc  
+- Swagger UI: https://anik-event-management-ticketing-system.onrender.com/api/docs
+
