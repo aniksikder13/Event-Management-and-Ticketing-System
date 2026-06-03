@@ -132,4 +132,8 @@ This project simulates a real production-level ticketing platform and demonstrat
 
 A booking-first event management system with strict separation between reservation, payment, and ticket issuance layers ensuring consistency, scalability, and real-world reliability.
 
-```
+## 🌐 Production Deployment
+
+The system is live and running in production:
+
+🔗 Base URL: https://event-management-ticketing-system-d5ei.onrender.com
